@@ -28,3 +28,7 @@ The ultrasonic sensor detects the distance to an object and sends the result to 
 
 ## ✅ To Run
 Make sure you have the `RPLCD` library installed:
+
+## 📷 of setup
+![Project Photo](Parking.Sensor.Photo.png)
+
